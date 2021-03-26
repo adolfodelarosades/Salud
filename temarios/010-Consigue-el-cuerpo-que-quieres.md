@@ -2,9 +2,9 @@
 
 Descubre la "Fitosofía" y pone en forma en 12 semanas
 
-* Introducción
+* [Introducción](010-Consigue-el-cuerpo-que-quieres/00_Introduccion.md)
 
-### Parte I Fito Florensa y la "Fitosofía"
+### [Parte I Fito Florensa y la "Fitosofía"](010-Consigue-el-cuerpo-que-quieres/01_ParteI.md)
 
 1. Mi vida y el deporte
 2. Hacia una vida mejor
