@@ -35,7 +35,7 @@ El objetivo de este libro es explicar en profundidad por qué es tan importante 
 
 > EL CAMINO MÁS RÁPIDO ES EL CORRECTO. *Teresa de Calcuta*
 
-### 🔴 Lo único que debes hacer para adelgazar y afianzarte en tu peso ideal es forjar, con el tiempo adecuado, unos hábitos saludables en general(comer bien, dormir las horas necesarias, realizar ejercicio físico, no fumar, no beber exceso de alcohol...). Ésa es la única formay la más rápiday, por tanto, la correcta. Si no lo haces así, puedes estar toda la vida queriendo adelgazar y no lo conseguirás. 🔴
+### 🔴 Lo único que debes hacer para adelgazar y afianzarte en tu peso ideal es forjar, con el tiempo adecuado, unos hábitos saludables en general: <br><br>comer bien, <br><br>dormir las horas necesarias, <br><br>realizar ejercicio físico, <br><br>no fumar, <br><br>no beber exceso de alcohol<br><br>...).<br><br> Ésa es la única formay la más rápiday, por tanto, la correcta. Si no lo haces así, puedes estar toda la vida queriendo adelgazar y no lo conseguirás. 🔴
 
 
 ## 2. Hacia una vida mejor
